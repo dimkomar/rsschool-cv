@@ -2,7 +2,8 @@
 2. Contact Info: 
 	1. *e-mail: dimkomar@gmail.com*
 	2. *phone*
-3. Goal: Become a iOS developer
+3. Goal: 
+	1. *Become a iOS developer*
 4. Skills:
 	1. *To be happy*
 5. Some code:
